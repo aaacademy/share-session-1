@@ -1,6 +1,14 @@
 # Sharing Session :smile:
 ![React Redux](https://materikimia.com/wp-content/uploads/2018/03/Persamaan-Reaksi-Kimia.png)
 
+# Dependencies
+- React
+- React Dom
+- Redux
+- React-Redux
+- Axios
+- React-router-dom
+
 # Materi
 - React Dasar
 - State Management
